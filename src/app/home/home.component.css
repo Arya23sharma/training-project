@@ -1,0 +1,71 @@
+.one{
+    outline: none;
+    width: 8%;
+    background-color: yellowgreen;
+    cursor: pointer;
+    border: 3px solid whitesmoke;
+    margin-left: 120px;
+    margin-bottom: 10px;
+    text-align: center;
+    position: top;
+    margin-top: 0px;
+}
+.one a{
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+   
+}
+.two{
+    outline: none;
+    width: 8%;
+    background-color: skyblue;
+    cursor: pointer;
+    font-size: 30px;
+    border: 3px solid whitesmoke;
+    margin-left: 800px;
+    /* margin-top: 50px; */
+    text-align: center;
+}
+.two a{
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+ 
+}
+.three{
+    outline: none;
+    width: 15%;
+    height: 38px;
+    background-color: cyan;
+    cursor: pointer;
+    font-size: 30px;
+    border: 3px solid whitesmoke;
+    margin-left: 400px;
+    /* margin-top: 50px; */
+    text-align: center;
+}
+.three a{
+    font-size: 30px;
+    color: white ;
+    text-decoration: none;
+   
+}
+.four{
+    outline: none;
+    width: 15%;
+    height: 38px;
+    background-color:slateblue;
+    cursor: pointer;
+    font-size: 30px;
+    border: 3px solid whitesmoke;
+    text-align: center;
+    /* margin-top: 10px; */
+    margin-left: 1000px;
+}
+.four a{
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+    
+}
